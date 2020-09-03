@@ -1,1 +1,1 @@
-<h1>Project description</h1>
+Project description
